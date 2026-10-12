@@ -1,4 +1,4 @@
-<img src="hello.world.jpg" width="100%">
+<img src="banner.git.jpg" width="100%">
 <!--
 **anarosiq/anarosiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
