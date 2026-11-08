@@ -22,7 +22,6 @@ Hi! I'm a Systems Development student interested in technology and software deve
 - 🐍 Currently improving my Python skills.
 - 🇺🇸 Advanced English proficiency.
 ---
-
 ## ⌨︎ Technologies & Tools
 
 Technologies I'm studying and using:
