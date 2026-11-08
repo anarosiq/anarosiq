@@ -55,7 +55,7 @@ More projects coming soon!
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-anarosiq-B98279?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anarosiq)
-*Always learning, always growing.*
+  *Always learning, always growing.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D9977E&height=100&section=footer" width="100%" />>
 
