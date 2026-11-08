@@ -1,7 +1,7 @@
 <!-- 🌸 HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B6C8&height=180&section=header&text=anarosiq&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B3028,E7C5B9,FFF4EC&height=120&section=header&animation=fadeIn" width="100%" />
 # Hello, World! ♡
 
 **Systems Development Student | Learning to turn ideas into code.**
@@ -19,9 +19,9 @@
 Hi! I'm a Systems Development student interested in technology and software development.
 
 - 🎓 Studying Systems Development.
-- 💻 Learning programming and web development.
+- 💻 Learning programming and software development.
 - 🐍 Currently improving my Python skills.
-- 🌐 Exploring web technologies.
+- 🇺🇸 Advanced English proficiency.
 - ✨ Always curious to learn something new.
 
 *Sou estudante de Desenvolvimento de Sistemas e estou construindo minha jornada na programação, um projeto de cada vez.*
@@ -37,16 +37,13 @@ Technologies I'm studying and using:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&theme=light)](https://skillicons.dev)
 
 </div>
-
 ---
-
 ## 📚 Currently Learning
 
 - Python — Programming logic and problem solving.
 - JavaScript — Interactive web development.
 - MySQL — Database management and SQL queries.
 - HTML & CSS — Web structure and styling.
-
 ---
 
 ## 🎀 My Projects
@@ -58,11 +55,9 @@ Some projects I've been working on:
 | 🎬 Cineverso Quiz | A movie quiz website. |
 | 📚 Bellebooks | A project related to books. |
 | 🌱 Projeto Ciclo da Água | An educational project about the water cycle. |
-| 🔐 Gerador de Hash | A hash generator project. |
-| 💻 Aula GitHub | Learning and practicing GitHub. |
+| 🛍 Calestine | cosmetics store. |
 
 More projects coming soon!
-
 ---
 
 ## 📊 GitHub Statistics
