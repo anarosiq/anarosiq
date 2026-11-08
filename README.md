@@ -2,9 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4B6C8&height=180&section=header&text=anarosiq&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
-
 # Hello, World! ♡
 
 **Systems Development Student | Learning to turn ideas into code.**
