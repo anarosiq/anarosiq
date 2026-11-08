@@ -34,7 +34,6 @@ Technologies I'm studying and using:
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&theme=light)](https://skillicons.dev)
-
 </div>
 ---
 ## ୨୧ My Projects
