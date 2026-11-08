@@ -50,25 +50,11 @@ Some projects I've been working on:
 
 More projects coming soon!
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anarosiq&show_icons=true&theme=rose&hide_border=true&title_color=DB8FAE&icon_color=DB8FAE&text_color=777777&bg_color=FFF7FA" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarosiq&layout=compact&theme=rose&hide_border=true&title_color=DB8FAE&text_color=777777&bg_color=FFF7FA" />
-
-</div>
-
----
-
 ## ༘⋆  Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-anarosiq-F4B6C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anarosiq)
-
+[![GitHub](https://img.shields.io/badge/GitHub-anarosiq-B98279?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anarosiq)
 *Always learning, always growing.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4B6C8&height=100&section=footer" width="100%" />
