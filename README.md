@@ -21,10 +21,6 @@ Hi! I'm a Systems Development student interested in technology and software deve
 - 💻 Learning programming and software development.
 - 🐍 Currently improving my Python skills.
 - 🇺🇸 Advanced English proficiency.
-- ✨ Always curious to learn something new.
-
-*Sou estudante de Desenvolvimento de Sistemas e estou construindo minha jornada na programação, um projeto de cada vez.*
-
 ---
 
 ## ⌨︎ Technologies & Tools
