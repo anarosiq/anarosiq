@@ -13,7 +13,7 @@
 
 ---
 
-## 🌷 About Me | Sobre mim
+## ⋆｡˚ About Me | Sobre mim
 
 Hi! I'm a Systems Development student interested in technology and software development.
 
@@ -27,7 +27,7 @@ Hi! I'm a Systems Development student interested in technology and software deve
 
 ---
 
-## 💻 Technologies & Tools
+## ⌨︎ Technologies & Tools
 
 Technologies I'm studying and using:
 
@@ -37,15 +37,7 @@ Technologies I'm studying and using:
 
 </div>
 ---
-## 📚 Currently Learning
-
-- Python — Programming logic and problem solving.
-- JavaScript — Interactive web development.
-- MySQL — Database management and SQL queries.
-- HTML & CSS — Web structure and styling.
----
-
-## 🎀 My Projects
+## ୨୧ My Projects
 
 Some projects I've been working on:
 
@@ -71,7 +63,7 @@ More projects coming soon!
 
 ---
 
-## 🌸 Let's Connect
+## ༘⋆  Let's Connect
 
 <div align="center">
 
