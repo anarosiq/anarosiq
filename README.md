@@ -13,7 +13,7 @@
 
 ---
 
-## ⋆｡˚ About Me | Sobre mim
+## ⋆｡˚ About Me 
 
 Hi! I'm a Systems Development student interested in technology and software development.
 
