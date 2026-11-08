@@ -32,8 +32,11 @@ Hi! I'm a Systems Development student interested in technology and software deve
 Technologies I'm studying and using:
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&theme=light)](https://skillicons.dev)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js,python,mysql,git,github&theme=light" alt="My Skills"/>
+</p>
 </div>
 ---
 ## ୨୧ My Projects
