@@ -8,8 +8,7 @@
 
 *Aprendendo, criando e transformando ideias em projetos.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=DB8FAE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+something+new+every+day;Building+my+developer+journey)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=D9977E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+something+new+every+day;Building+my+developer+journey)](https://git.io/typing-svg)
 </div>
 
 ---
